@@ -1,0 +1,63 @@
+{
+  
+    "products": [
+  
+      {
+        "id":1,
+        "nom": "Double cheeseburger",
+        "description": "",
+        "prix": 8,
+        "url": "https://ais.kochbar.de/kbrezept/284621_878966/1200x1200/burger-rezept-bild-nr-1187.jpg",
+        "inventory":7
+      },
+      {
+        "id": 2,
+        "nom": "Bacon burger",
+        "description": " ",
+        "prix": 7,
+        "url": "https://ais.kochbar.de/kbrezept/284621_878966/1200x1200/burger-rezept-bild-nr-1187.jpg",
+        "inventory":10
+      },
+  
+  
+      {
+        "id": 3,
+        "nom": "Cheeseburger",
+        "description": "Steak haché, cheddar fondu, salade, tomate, oignon rouge, cornichon, sauce burger maison",
+        "prix": 5,
+        "url": "https://ais.kochbar.de/kbrezept/284621_878966/1200x1200/burger-rezept-bild-nr-1187.jpg",
+        "inventory":5
+      },
+     
+      {
+        "id": 4,
+        "nom": "Fanta",
+        "type": "soda",
+        "volume": "33cl",
+        "prix": 1.50,
+        "url": "https://wonder-dumplings.de/wp-content/uploads/2018/08/Fanta_Orange_01.jpg",
+        "inventory":5
+      },
+  
+      {
+        "id": 5,
+        "nom": "Pepsi",
+        "type": "soda",
+        "volume": "33cl",
+        "prix": 1.50,
+        "url": "https://www.drehmoment-headshop.de/media/image/product/3726/lg/dosensafe-pepsi.jpg",
+        "inventory":5
+      },
+      {
+        "id": 6,
+        "nom": "Coca-Cola",
+        "type": "soda",
+        "volume": "33cl",
+        "prix": 1.50,
+        "url": "https://www.mobicool.com/ui/productimages/98/13/dometic_cool-can-10_9600003942_69813_11.png?mw=580&mh=580&hash=274C18E840DFD8E457D2387BA6F840B0",
+      "inventory":5
+      }
+    
+      
+    ]
+  }
